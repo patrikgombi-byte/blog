@@ -1,7 +1,8 @@
 ---
 title: "Early display errors"
 date: 2023-06-14T23:10:31-04:00
-draft: false
+draft: true
+
 categories:
 author: forgeteam
 summary: "Some troubleshooting steps if you can't load minecraft's early display"
